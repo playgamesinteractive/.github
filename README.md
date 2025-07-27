@@ -1,4 +1,4 @@
-<img src="assets/banner-animated.gif" alt="Logo" width="200" height="200" />
+<img src="assets/banner-animated.gif" alt="Logo" width="600" height="600" />
 
 ## Hey there! 👋
 
