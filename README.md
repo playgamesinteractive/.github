@@ -1,5 +1,4 @@
-<img src=".github/dark.svg#gh-dark-mode-only" alt="Logo" width="200" height="200" />
-<img src=".github/light.svg#gh-light-mode-only" alt="Logo" width="200" height="200" />
+<img src="assets/banner-animated.gif" alt="Logo" width="200" height="200" />
 
 ## Hey there! 👋
 
