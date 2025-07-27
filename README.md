@@ -38,9 +38,3 @@ We’re always open to partnerships, collaborations, and conversations with forw
 
 - [LinkedIn](https://www.linkedin.com/company/playgamesinteractive/)
 - [Website](https://playgamesinteractive.com/)
-
-**Address:**  
-Play Games Interactive LTD  
-One World Trade Center  
-285 Fulton Street, Floor 104  
-New York, NY 10007
