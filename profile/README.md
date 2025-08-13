@@ -1,4 +1,4 @@
-## Play Games Interactive LTD <img src="assets/IconB.png" alt="Logo" width="25" height="20"/>
+## Play Games Interactive LTD <img src="../assets/IconB.png" alt="Logo" width="25" height="20"/>
 
 **Building the Future of Digital Experiences**
 
