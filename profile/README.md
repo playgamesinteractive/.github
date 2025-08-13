@@ -141,4 +141,5 @@ For business inquiries, partnership opportunities, or additional information abo
 
 ---
 
-[!NOTE] *This README serves as an introduction to Play Games Interactive and our approach to product development. As we continue to grow and evolve, we remain committed to our core mission of creating exceptional digital experiences that connect and engage communities worldwide.*
+> [!NOTE]
+> *This README serves as an introduction to Play Games Interactive and our approach to product development. As we continue to grow and evolve, we remain committed to our core mission of creating exceptional digital experiences that connect and engage communities worldwide.*
